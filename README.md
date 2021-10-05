@@ -28,7 +28,7 @@
 <br />
 <br />
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=xande&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=xanderim&count_private=true)
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xanderim)](https://github.com/anuraghazra/github-readme-stats)
