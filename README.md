@@ -1,7 +1,7 @@
 ### Hi there, my name is Xander 👋
 
-- 🚀 Founder of XDEVS.PRO
-- 🧑‍💻 Full-stack Python/Golang developer.
+- 🚀  Founder of XDEVS.PRO
+- 🧑‍💻  Full-stack Python/Golang developer.
 
 ### Contact me:
 
